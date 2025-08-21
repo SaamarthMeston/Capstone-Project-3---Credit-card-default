@@ -1,5 +1,5 @@
 
-# Credit Card Default Prediction
+# Credit Card Default Prediction /Credit Risk Analysis
 
 This repository contains code and data for a Credit Card Default Prediction Project. The project uses a variety of machine learning models to perform Classification of customers for an Taiwanese fintech company.
 
